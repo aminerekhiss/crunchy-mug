@@ -47,8 +47,8 @@ A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a moder
 
 ### 🔹 **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10.git
-cd Complete-Ecommerce-in-laravel-10
+git clone https://github.com/aminerekhiss/crunchy-mug.git
+cd crunchy-mug
 ```
 
 ### 🔹 **Step 2: Install Dependencies**
@@ -128,4 +128,3 @@ If you find this project helpful, consider [buying me a coffee](https://buymeaco
 🔹 This project is **MIT Licensed** – Feel free to use & modify!
 
 ⭐ **If you find this project helpful, don't forget to star it!** ⭐
-
